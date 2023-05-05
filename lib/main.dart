@@ -1,4 +1,3 @@
-import 'dart:developer';
 
 import 'package:blocapiyt/data/models/post_model.dart';
 import 'package:blocapiyt/data/repositories/post_repository.dart';
